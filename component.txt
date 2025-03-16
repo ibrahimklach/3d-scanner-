@@ -1,0 +1,9 @@
+Arduino nano
+SHARP 0A51SK F 84 sensor
+sc card reader module
+power source
+2 a4988 driver
+2 step motors
+2 buttons
+2 resistors
+
